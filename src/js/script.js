@@ -31,53 +31,59 @@ const songsList = [
     image: "./src/img/my_favorite_girl.png",
   },
   {
-    name: "Safe and Sound",
-    link: "./src/sounds/different_heaven _safe_and _sound.mp3",
-    artist: "Different Heaven",
-    image: "./src/img/different_heaven _safe_and _sound.webp",
+    name: "Just The Way You Are",
+    link: "./src/sounds/just_the_way_you_are.mp3",
+    artist: "Bruno Mars",
+    image: "./src/img/just_the_way_you_are.jpg",
   },
-  {
-    name: "Faded",
-    link: "./src/sounds/alan_walker_faded.mp3",
-    artist: "Alan Walker",
-    image: "./src/img/alan_walker_faded.webp",
-  },
-  {
-    name: "Hope",
-    link: "./src/sounds/tobu_hope.mp3",
-    artist: "Tobu",
-    image: "./src/img/tobu_hope.webp",
-  },
-  {
-    name: "Closer",
-    link: "./src/sounds/closer.mp3",
-    artist: "The Chainsmokers",
-    image: "./src/img/closer.webp",
-  },
-  {
-    name: "Numb",
-    link: "./src/sounds/numb.mp3",
-    artist: "Linkin Park",
-    image: "./src/img/numb.webp",
-  },
-  {
-    name: "Reckless",
-    link: "./src/sounds/reckless.mp3",
-    artist: "Madison Beer",
-    image: "./src/img/reckless.webp",
-  },
-  {
-    name: "Sunflower",
-    link: "./src/sounds/sunflower.mp3",
-    artist: "Post Malone, Swae Lee",
-    image: "./src/img/sunflower.webp",
-  },
-  {
-    name: "Viva La Vida",
-    link: "./src/sounds/viva_la_vida.mp3",
-    artist: "Coldplay",
-    image: "./src/img/viva_la_vida.webp",
-  }
+  // {
+  //   name: "Safe and Sound",
+  //   link: "./src/sounds/different_heaven _safe_and _sound.mp3",
+  //   artist: "Different Heaven",
+  //   image: "./src/img/different_heaven _safe_and _sound.webp",
+  // },
+  // {
+  //   name: "Faded",
+  //   link: "./src/sounds/alan_walker_faded.mp3",
+  //   artist: "Alan Walker",
+  //   image: "./src/img/alan_walker_faded.webp",
+  // },
+  // {
+  //   name: "Hope",
+  //   link: "./src/sounds/tobu_hope.mp3",
+  //   artist: "Tobu",
+  //   image: "./src/img/tobu_hope.webp",
+  // },
+  // {
+  //   name: "Closer",
+  //   link: "./src/sounds/closer.mp3",
+  //   artist: "The Chainsmokers",
+  //   image: "./src/img/closer.webp",
+  // },
+  // {
+  //   name: "Numb",
+  //   link: "./src/sounds/numb.mp3",
+  //   artist: "Linkin Park",
+  //   image: "./src/img/numb.webp",
+  // },
+  // {
+  //   name: "Reckless",
+  //   link: "./src/sounds/reckless.mp3",
+  //   artist: "Madison Beer",
+  //   image: "./src/img/reckless.webp",
+  // },
+  // {
+  //   name: "Sunflower",
+  //   link: "./src/sounds/sunflower.mp3",
+  //   artist: "Post Malone, Swae Lee",
+  //   image: "./src/img/sunflower.webp",
+  // },
+  // {
+  //   name: "Viva La Vida",
+  //   link: "./src/sounds/viva_la_vida.mp3",
+  //   artist: "Coldplay",
+  //   image: "./src/img/viva_la_vida.webp",
+  // }
 
 ];
 
