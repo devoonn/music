@@ -28,7 +28,7 @@ const songsList = [
     name: "My Favorite Girl",
     link: "./src/sounds/my_favorite_girl.mp3",
     artist: "Happy Mensiv<br>This music is special for my girlfriend<br>Ayrell",
-    image: "./src/img/my_favorite_girl.png",
+    image: "./src/img/my_favorite_girl.jpg",
   },
   {
     name: "Just The Way You Are",
